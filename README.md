@@ -70,13 +70,6 @@ Staff AI/ML and MLOps Engineer with **7+ years of progressive engineering leader
 
 ---
 
-## 📊 GitHub Overview
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shane-ejaz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Shawn's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shane-ejaz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
 ---
 
 <p align="center">
