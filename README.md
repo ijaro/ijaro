@@ -70,8 +70,6 @@ Staff AI/ML and MLOps Engineer with **7+ years of progressive engineering leader
 
 ---
 
----
-
 <p align="center">
   <sub>Shawn Ijaz • <a href="mailto:shawnijaz0@gmail.com">shawnijaz0@gmail.com</a> • <a href="https://github.com/shane-ejaz">github.com/shane-ejaz</a></sub>
 </p>
