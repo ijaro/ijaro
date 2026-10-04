@@ -1,75 +1,106 @@
-# Hi there, I'm Shawn Ijaz 👋
+# Shawn Ijaz — Senior Data Engineer
 
-<p align="left">
-  <b>Staff AI/ML & MLOps Engineer</b><br>
-  <i>Enterprise GenAI Systems • Production MLOps • Distributed Microservices • AST Security Guardrails</i>
-</p>
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-shawnijaz0%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white)](mailto:shawnijaz0@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shawn%20Ijaz-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawn-ijaz-420014440/)
-[![GitHub](https://img.shields.io/badge/GitHub-shane--ejaz-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shane-ejaz)
-[![Tests Passing](https://img.shields.io/badge/Tests-57%2F57%20Passed%20(100%25)-success?style=flat-square&logo=pytest&logoColor=white)](https://github.com/shane-ejaz)
-[![Python](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-
----
-
-## 👨‍💻 About Me
-
-Staff AI/ML and MLOps Engineer with **7+ years of progressive engineering leadership** (2019 – 2026) designing, deploying, and governing mission-critical machine learning systems in production.
-
-- 🔭 **Currently Building**: Multi-tenant GenAI financial analytics agents with deterministic AST security guardrails (`sqlglot`) and Server-Sent Events (SSE) streaming.
-- 💼 **Industry Experience**: Led AI, ML, and data engineering initiatives at **Edemson Softwares**, **Pryvisol**, and **Zeyootech**.
-- ⚙️ **Core Architectural Competencies**:
-  - Deterministic AST SQL guardrails and multi-tenant row security.
-  - High-throughput asynchronous Celery/Redis microservices.
-  - Conversational speech analytics and trajectory sentiment scoring.
-  - End-to-end MLOps lifecycle orchestration with Kolmogorov-Smirnov statistical drift gates.
-- 💬 **Ask Me About**: Text-to-SQL compilers, PII cryptographic tokenization, automated actuarial underwriting, and model serialization.
-- 📫 **Direct Inquiries**: [shawnijaz0@gmail.com](mailto:shawnijaz0@gmail.com)
-
----
-
-## 🛠️ Technical Stack & Tools
-
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | Python (3.9 - 3.12), SQL, Bash, PowerShell |
-| **Machine Learning & MLOps** | Scikit-Learn, PyTorch, XGBoost, Pandas, NumPy, MLflow, KS Statistical Drift, Automated Gates |
-| **GenAI & LLM Security** | SQLGlot (AST Traversal), Semantic Schema Retrieval, Few-Shot RAG, HMAC SHA-256 Tokenization |
-| **APIs & Streaming** | FastAPI, Pydantic v2, Server-Sent Events (SSE), HTTPX, Uvicorn |
-| **Data & Infrastructure** | SQLite, PostgreSQL, Redis, Celery, Docker, Concurrency Benchmarking |
-| **Testing & Quality** | PyTest (100% Pass Rate across 57 suites), Pre-Commit, Flake8, Conventional Commits |
-
----
-
-## 🚀 Featured Portfolio Projects
-
-### 1. [GenAI Financial Analytics Engine](https://github.com/shane-ejaz/genai-financial-analytics)
-*Enterprise Multi-Tenant Text-to-SQL & Financial Agent (2024 – 2026 | Edemson Inc.)*
-- Natural language query compiler with deterministic AST guardrails (`sqlglot`) enforcing SELECT-only execution and multi-tenant isolation.
-- Real-time cardholder PII tokenization (HMAC SHA-256) and Server-Sent Events (SSE) compilation streaming.
-- Standalone SQLite financial database (`financial_data.db`) and dual-run evaluation benchmark suite (**19/19 tests passing**).
-
-### 2. [AI Conversation Intelligence Platform](https://github.com/shane-ejaz/ai-conversation-analytics)
-*Speech Intelligence & Conversational Analytics Engine (2022 – 2023 | Edemson Inc.)*
-- Telephony audio feature extraction analyzing talk-to-listen ratios, speech cadence, and silence duration.
-- Conversational trajectory sentiment scoring tracking emotional shifts across call opening, midpoint, and resolution phases.
-- Enterprise CRM integration payload generator with automated BANT lead scoring and objection extraction (**15/15 tests passing**).
-
-### 3. [Commercial Insurance Auto-Quotation Pipeline](https://github.com/shane-ejaz/insurance-quotation-pipeline)
-*Distributed Intake & Automated Underwriting Engine (2021 – 2022 | Pryvisol)*
-- High-throughput ACORD 125 XML and email submission intake parser.
-- Multi-factor actuarial rating engine calculating commercial property and liability premiums with state jurisdiction multipliers.
-- Asynchronous Redis worker pool benchmarked at 160 concurrency with 100% SLA delivery (**10/10 tests passing**).
-
-### 4. [Enterprise MLOps Lifecycle Pipeline](https://github.com/shane-ejaz/production-mlops-pipeline)
-*Production MLOps & Statistical Drift Platform (2019 – 2020 | Zeyootech)*
-- End-to-end reproducible machine learning pipeline with RFM behavioral cohort feature engineering.
-- Serialized Gradient Boosted Trees model (`uplift_gbt_v1.joblib`, ROC-AUC > 0.95) with automated experiment tracking.
-- Two-sample Kolmogorov-Smirnov statistical drift detector with automated pre-deployment release gates (**13/13 tests passing**).
-
----
+[![Email](https://img.shields.io/badge/Email-shawnijaz0%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawnijaz0@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shawn--ijaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawn-ijaz-420014440)
+[![GitHub](https://img.shields.io/badge/GitHub-shane--ejaz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shane-ejaz)
+[![Location](https://img.shields.io/badge/Location-Albany%2C%20NY-gray?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 <p align="center">
-  <sub>Shawn Ijaz • <a href="mailto:shawnijaz0@gmail.com">shawnijaz0@gmail.com</a> • <a href="https://github.com/shane-ejaz">github.com/shane-ejaz</a></sub>
+  <b>Batch & Streaming ETL/ELT • Snowflake & Databricks • Apache Spark & Airflow • dbt Core • Real-Time CDC & ClickHouse • Enterprise RAG Ingestion</b>
 </p>
+
+</div>
+
+---
+
+## Professional Summary
+
+Senior Data Engineer with **7+ years of experience** architecting high-throughput batch and streaming ETL/ELT pipelines across AWS and Azure cloud ecosystems. Deep specialization in modern Lakehouse architectures, dimensional modeling (Kimball SCD Type 1/2), orchestration, and data platform cost optimization.
+
+- **Warehouse & Lakehouse**: Snowflake, Databricks, Delta Lake, ClickHouse, Apache Iceberg, Amazon Redshift, Google BigQuery, Azure Synapse.
+- **Big Data & Streaming**: Apache Spark (PySpark, Structured Streaming), Delta Live Tables, Apache Kafka, Debezium CDC, AWS Kinesis.
+- **Orchestration & Transformation**: dbt (Core/Cloud), Apache Airflow (180+ production DAGs), Azure Data Factory, AWS Glue.
+- **AI & ML Workloads**: Production RAG ingestion & embedding pipelines, `pgvector`, MLflow feature engineering, LLM token & cost attribution (Amazon Bedrock & OpenAI).
+- **Certifications**: AWS Certified Data Engineer (DEA-C01), Databricks Certified Data Engineer Professional, SnowPro Core, Microsoft Azure Data Engineer Associate (DP-203), Databricks Certified Generative AI Engineer.
+
+---
+
+## Flagship Production Repositories
+
+| Repository | Organization & Era | Core Architecture & Technology Stack | Status |
+| :--- | :--- | :--- | :---: |
+| [**`enterprise-rag-data-pipeline`**](https://github.com/shane-ejaz/enterprise-rag-data-pipeline) | **Solgenci**<br>*(2024 – Present)* | **Production RAG Ingestion & LLM Cost Attribution**<br>• Document Chunking & Metadata Extraction Engine<br>• Vector Store Embedding Sync (`pgvector` / Vector Store)<br>• Bedrock & OpenAI Per-Team Token & Cost Telemetry<br>• Airflow DAG Nightly Warehouse Retrieval Refresh | **Passing Tests (100%)** |
+| [**`lakehouse-cdc-streaming-platform`**](https://github.com/shane-ejaz/lakehouse-cdc-streaming-platform) | **Solgenci**<br>*(2023 – 2024)* | **Real-Time CDC, ClickHouse OLAP & dbt Lakehouse**<br>• Debezium + Kafka + Delta Lake CDC Replication (<10m latency)<br>• ClickHouse Real-Time Sub-Second OLAP Engine<br>• 300+ Stored Procedure to dbt ELT Migration<br>• Great Expectations Ingestion Gates & PII Masking | **Passing Tests (100%)** |
+| [**`aws-emr-spark-lakehouse`**](https://github.com/shane-ejaz/aws-emr-spark-lakehouse) | **Reno Techs**<br>*(2020 – 2022)* | **High-Scale PySpark on EMR & Redshift Star Schema**<br>• 800 GB/day PySpark Compaction & Partition Pruning Engine<br>• Redshift Kimball Star Schema with SCD Type 2 Dimensioning<br>• Kinesis & Lambda Clickstream Pipeline (5M events/day)<br>• Automated Source-to-Warehouse Reconciliation & Alerting | **Passing Tests (100%)** |
+| [**`azure-synapse-dw-pipeline`**](https://github.com/shane-ejaz/azure-synapse-dw-pipeline) | **Letsremotify**<br>*(2018 – 2020)* | **Enterprise DW & Azure Synapse Migration**<br>• Incremental Change-Tracking Extract Engine (Python/T-SQL)<br>• T-SQL Execution Plan Tuning & Table Partitioning Maintenance<br>• Azure Data Factory & Azure Synapse Analytics Workloads<br>• Hive & Spark Order History Analytics on Hadoop | **Passing Tests (100%)** |
+
+---
+
+## Technical Deep-Dives
+
+### 1. Enterprise RAG Ingestion & Token Attribution (`enterprise-rag-data-pipeline`)
+*Solgenci (Delaware, US) | 2024 – Present*
+- **Problem**: Support and sales teams required accurate, low-latency document search over product docs and internal CRM notes without unmonitored LLM spend or stale embeddings.
+- **Implementation**:
+  - Engineered modular Python chunking pipelines with sliding-window token overlap and metadata preservation.
+  - Implemented vector ingestion with batch upserts into `pgvector`, synchronized via a nightly Apache Airflow DAG.
+  - Built an LLM telemetry layer tracking prompt/completion tokens across Amazon Bedrock and OpenAI APIs, attributing exact operational costs by team ID and business unit.
+
+### 2. Real-Time CDC & Lakehouse Platform (`lakehouse-cdc-streaming-platform`)
+*Solgenci (Delaware, US) | 2023 – 2024*
+- **Problem**: 40 operational Postgres database tables suffered from 24-hour sync latencies and slow stored-procedure ETL running over 6.5 hours.
+- **Implementation**:
+  - Implemented change data capture (CDC) using Debezium, Kafka, and Delta Lake, dropping sync latency from 24 hours to under 10 minutes.
+  - Deployed ClickHouse as a real-time analytics acceleration layer, enabling sub-second analytical queries across billions of event rows without straining Snowflake compute warehouses.
+  - Migrated 300+ legacy stored procedures to modular, tested dbt models, slashing batch windows from 6.5 hours to 1 hour 50 minutes.
+  - Integrated Great Expectations validation gates at ingestion boundaries and enforced dynamic column-level PII masking in Snowflake.
+
+### 3. AWS EMR PySpark Lakehouse & Dimensional Warehouse (`aws-emr-spark-lakehouse`)
+*Reno Techs (Nevada, US) | 2020 – 2022*
+- **Problem**: Disparate ingestion from 15 source systems (Salesforce, REST APIs, SFTP, MySQL) resulted in uncoordinated data lakes and sluggish Redshift reporting queries (>40s).
+- **Implementation**:
+  - Architected an AWS S3 data lake with AWS Glue Data Catalog and Athena, processing 800 GB/day using PySpark on Amazon EMR.
+  - Applied aggressive partition pruning and Parquet file compaction, reducing Spark execution times by ~50%.
+  - Designed a high-performance Kimball Star Schema in Redshift featuring SCD Type 2 tracking for customer and product dimensions, tuning distribution/sort keys to drop dashboard load times to <5 seconds.
+  - Built a near-real-time streaming clickstream ingestion pipeline with AWS Kinesis and Lambda handling 5M events daily.
+
+### 4. Enterprise DW & Azure Synapse Migration (`azure-synapse-dw-pipeline`)
+*Letsremotify (New Jersey, US) | 2018 – 2020*
+- **Problem**: On-premise SQL Server reporting hardware was bottlenecked by monolithic full-table nightly extracts and long-running T-SQL queries.
+- **Implementation**:
+  - Re-architected nightly batch ingestion into incremental extracts powered by SQL Server change-tracking columns, sharply cutting batch load volumes.
+  - Tuned execution plans, rebuilt clustered columnstore indexes, and implemented table partitioning, cutting query times from 3 hours to 45 minutes.
+  - Migrated legacy reporting infrastructure to Azure Data Factory and Azure Synapse Analytics (Azure SQL DW).
+  - Built scheduled, parameterized analytical reporting workflows replacing manual spreadsheets.
+
+---
+
+## Technical Skills & Tooling Matrix
+
+```text
+├── Languages:             Python (Pandas, PySpark, FastAPI), SQL, T-SQL, PL/SQL, Scala, Bash
+├── Cloud Ecosystems:      AWS (S3, EMR, Athena, Redshift, Glue, Lambda, Kinesis, IAM, EKS)
+│                          Azure (ADLS Gen2, Databricks, Synapse Analytics, Data Factory)
+│                          GCP (BigQuery, Cloud Composer)
+├── Lakehouse & Storage:   Snowflake, Databricks, Delta Lake, Apache Iceberg, ClickHouse
+├── Streaming & CDC:       Apache Kafka, Debezium, AWS Kinesis, Delta Live Tables
+├── Orchestration & ELT:   Apache Airflow, dbt (Core/Cloud), Databricks Workflows, Dagster
+├── Quality & Governance:  Great Expectations, dbt tests, Snowflake RBAC, Dynamic Data Masking
+├── AI Data Engineering:   RAG Pipelines, pgvector, Vector Indexing, Bedrock/OpenAI APIs, MLflow
+└── DevOps & CI/CD:        Docker, Kubernetes, Terraform, GitHub Actions, Linux
+```
+
+---
+
+## Education & Professional Certifications
+
+- **Master of Science, Computer Science** (2013 – 2015) — FAST-NUCES
+- **Bachelor of Science, Computer Science** (2009 – 2013) — FAST-NUCES
+- **AWS Certified Data Engineer - Associate** (DEA-C01)
+- **Databricks Certified Data Engineer Professional**
+- **SnowPro Core Certification** (Snowflake)
+- **Microsoft Certified: Azure Data Engineer Associate** (DP-203)
+- **Databricks Certified Generative AI Engineer Associate**
