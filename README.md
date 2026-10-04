@@ -4,7 +4,7 @@
 
 [![Email](https://img.shields.io/badge/Email-shawnijaz0%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawnijaz0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shawn--ijaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawn-ijaz-420014440)
-[![GitHub](https://img.shields.io/badge/GitHub-shane--ejaz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shane-ejaz)
+[![GitHub](https://img.shields.io/badge/GitHub-shane--ejaz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ijaro)
 [![Location](https://img.shields.io/badge/Location-Albany%2C%20NY-gray?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
@@ -32,10 +32,10 @@ Senior Data Engineer with **7+ years of experience** architecting high-throughpu
 
 | Repository | Organization & Era | Core Architecture & Technology Stack | Status |
 | :--- | :--- | :--- | :---: |
-| [**`enterprise-rag-data-pipeline`**](https://github.com/shane-ejaz/enterprise-rag-data-pipeline) | **Solgenci**<br>*(2024 – Present)* | **Production RAG Ingestion & LLM Cost Attribution**<br>• Document Chunking & Metadata Extraction Engine<br>• Vector Store Embedding Sync (`pgvector` / Vector Store)<br>• Bedrock & OpenAI Per-Team Token & Cost Telemetry<br>• Airflow DAG Nightly Warehouse Retrieval Refresh | **Passing Tests (100%)** |
-| [**`lakehouse-cdc-streaming-platform`**](https://github.com/shane-ejaz/lakehouse-cdc-streaming-platform) | **Solgenci**<br>*(2023 – 2024)* | **Real-Time CDC, ClickHouse OLAP & dbt Lakehouse**<br>• Debezium + Kafka + Delta Lake CDC Replication (<10m latency)<br>• ClickHouse Real-Time Sub-Second OLAP Engine<br>• 300+ Stored Procedure to dbt ELT Migration<br>• Great Expectations Ingestion Gates & PII Masking | **Passing Tests (100%)** |
-| [**`aws-emr-spark-lakehouse`**](https://github.com/shane-ejaz/aws-emr-spark-lakehouse) | **Reno Techs**<br>*(2020 – 2022)* | **High-Scale PySpark on EMR & Redshift Star Schema**<br>• 800 GB/day PySpark Compaction & Partition Pruning Engine<br>• Redshift Kimball Star Schema with SCD Type 2 Dimensioning<br>• Kinesis & Lambda Clickstream Pipeline (5M events/day)<br>• Automated Source-to-Warehouse Reconciliation & Alerting | **Passing Tests (100%)** |
-| [**`azure-synapse-dw-pipeline`**](https://github.com/shane-ejaz/azure-synapse-dw-pipeline) | **Letsremotify**<br>*(2018 – 2020)* | **Enterprise DW & Azure Synapse Migration**<br>• Incremental Change-Tracking Extract Engine (Python/T-SQL)<br>• T-SQL Execution Plan Tuning & Table Partitioning Maintenance<br>• Azure Data Factory & Azure Synapse Analytics Workloads<br>• Hive & Spark Order History Analytics on Hadoop | **Passing Tests (100%)** |
+| [**`enterprise-rag-data-pipeline`**](https://github.com/ijaro/enterprise-rag-data-pipeline) | **Solgenci**<br>*(2024 – Present)* | **Production RAG Ingestion & LLM Cost Attribution**<br>• Document Chunking & Metadata Extraction Engine<br>• Vector Store Embedding Sync (`pgvector` / Vector Store)<br>• Bedrock & OpenAI Per-Team Token & Cost Telemetry<br>• Airflow DAG Nightly Warehouse Retrieval Refresh | **Passing Tests (100%)** |
+| [**`lakehouse-cdc-streaming-platform`**](https://github.com/ijaro/lakehouse-cdc-streaming-platform) | **Solgenci**<br>*(2023 – 2024)* | **Real-Time CDC, ClickHouse OLAP & dbt Lakehouse**<br>• Debezium + Kafka + Delta Lake CDC Replication (<10m latency)<br>• ClickHouse Real-Time Sub-Second OLAP Engine<br>• 300+ Stored Procedure to dbt ELT Migration<br>• Great Expectations Ingestion Gates & PII Masking | **Passing Tests (100%)** |
+| [**`aws-emr-spark-lakehouse`**](https://github.com/ijaro/aws-emr-spark-lakehouse) | **Reno Techs**<br>*(2020 – 2022)* | **High-Scale PySpark on EMR & Redshift Star Schema**<br>• 800 GB/day PySpark Compaction & Partition Pruning Engine<br>• Redshift Kimball Star Schema with SCD Type 2 Dimensioning<br>• Kinesis & Lambda Clickstream Pipeline (5M events/day)<br>• Automated Source-to-Warehouse Reconciliation & Alerting | **Passing Tests (100%)** |
+| [**`azure-synapse-dw-pipeline`**](https://github.com/ijaro/azure-synapse-dw-pipeline) | **Letsremotify**<br>*(2018 – 2020)* | **Enterprise DW & Azure Synapse Migration**<br>• Incremental Change-Tracking Extract Engine (Python/T-SQL)<br>• T-SQL Execution Plan Tuning & Table Partitioning Maintenance<br>• Azure Data Factory & Azure Synapse Analytics Workloads<br>• Hive & Spark Order History Analytics on Hadoop | **Passing Tests (100%)** |
 
 ---
 
