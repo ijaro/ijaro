@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=220&section=header&text=Shawn%20Ijaz&fontSize=48&fontAlignY=36&desc=Senior%20Data%20Engineer%20%7C%20Lakehouse%20%26%20Streaming%20Architect&descAlignY=60&descAlign=50" width="100%"/>
+<!-- Custom High-Fidelity SVG Header Banner -->
+<img src="https://raw.githubusercontent.com/ijaro/ijaro/main/assets/header.svg" width="100%" alt="Shawn Ijaz - Senior Data Engineer"/>
 
-<!-- Animated Typing Subtitle -->
-<a href="https://github.com/ijaro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=Senior+Data+Engineer;Modern+Lakehouse+%26+CDC+Streaming+Architect;Snowflake+%7C+Databricks+%7C+Spark+%7C+Airflow+%7C+dbt;Sub-Second+OLAP+with+ClickHouse+%26+Delta+Lake;Enterprise+RAG+Ingestion+%26+LLM+Token+Attribution" alt="Typing SVG" />
-</a>
+<br/><br/>
 
-<br/>
+<!-- Animated Typing Terminal Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=750&lines=Senior+Data+Engineer;Modern+Lakehouse+%26+CDC+Streaming+Architect;Snowflake+%7C+Databricks+%7C+Spark+%7C+Airflow+%7C+dbt;Sub-Second+OLAP+with+ClickHouse+%26+Delta+Lake;Enterprise+RAG+Ingestion+%26+LLM+Token+Attribution" alt="Typing SVG" />
+
+<br/><br/>
 
 <!-- Contact & Status Badges -->
 [![Email](https://img.shields.io/badge/Email-shawnijaz0%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawnijaz0@gmail.com)
@@ -111,19 +111,9 @@
 
 ---
 
-## 📈 Activity & Contribution Velocity
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ijaro&theme=tokyonight&hide_border=true&card_width=500" alt="GitHub Streak Stats" />
-
-</div>
-
----
-
-<div align="center">
-
-<!-- Animated Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=120&section=footer" width="100%"/>
+<!-- Custom High-Fidelity SVG Footer Banner -->
+<img src="https://raw.githubusercontent.com/ijaro/ijaro/main/assets/footer.svg" width="100%" alt="Engineered for Resilience and Scale"/>
 
 </div>
