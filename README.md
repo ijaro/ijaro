@@ -14,7 +14,7 @@
 [![Email](https://img.shields.io/badge/Email-shawnijaz0%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shawnijaz0@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shawn--ijaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shawn-ijaz-420014440)
 [![GitHub](https://img.shields.io/badge/GitHub-ijaro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ijaro)
-[![Location](https://img.shields.io/badge/Location-Albany%2C%20NY-24292E?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Location](https://img.shields.io/badge/Location-MD%2C%20United%20States-24292E?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3.9%20%7C%203.10%20%7C%203.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 </div>
